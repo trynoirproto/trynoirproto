@@ -22,7 +22,7 @@
 
 <br/>
 
-<!-- в•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђ SNAKE в•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђ -->
+<!-- в•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђ SNAKE в•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђ -->
 
 <div align="center">
 <picture>
@@ -34,33 +34,24 @@
 
 <br/>
 
-<!-- в•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђ TROPHY в•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђ -->
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=noirproto&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" alt="trophies" width="100%"/>
-</div>
-
-<br/>
-
-<!-- в•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђ ABOUT в•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђ -->
+<!-- в•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђ ABOUT в•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђ -->
 
 <div align="center">
 
-```
-Trillions of dollars of stocks, ETFs, and real-world assets are moving onchain.
-They need a real market вЂ” not a bonding curve, not an AMM.
-
-Noir Protocol is a central limit order book with price-time priority,
-off-chain matching, on-chain settlement, and zero custody.
-```
+> **Trillions of dollars of stocks, ETFs, and real-world assets are moving onchain.**
+> **They need a real market вЂ” not a bonding curve, not an AMM.**
 
 </div>
 
 <br/>
 
-<!-- в•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђ STATS в•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђ -->
+<!-- в•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђ STATS в•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђ -->
 
-<h2 align="center">рџ“Љ &nbsp; GitHub Analytics</h2>
+<h2 align="center">
+<img src="https://img.shields.io/badge/-%E2%97%88-0047FF?style=flat-square&labelColor=0047FF" height="14"/>
+&nbsp; GitHub Analytics &nbsp;
+<img src="https://img.shields.io/badge/-%E2%97%88-0047FF?style=flat-square&labelColor=0047FF" height="14"/>
+</h2>
 
 <p align="center">
 <a href="https://github.com/noirproto">
@@ -82,9 +73,13 @@ off-chain matching, on-chain settlement, and zero custody.
 
 <br/>
 
-<!-- в•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђ TECH STACK в•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђ -->
+<!-- в•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђ TECH STACK в•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђ -->
 
-<h2 align="center">рџ›  &nbsp; Tech Stack</h2>
+<h2 align="center">
+<img src="https://img.shields.io/badge/-%E2%97%88-0047FF?style=flat-square&labelColor=0047FF" height="14"/>
+&nbsp; Tech Stack &nbsp;
+<img src="https://img.shields.io/badge/-%E2%97%88-0047FF?style=flat-square&labelColor=0047FF" height="14"/>
+</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
@@ -93,7 +88,6 @@ off-chain matching, on-chain settlement, and zero custody.
 <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node"/>
 <img src="https://img.shields.io/badge/Ethereum-000000?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
 </p>
-
 <p align="center">
 <img src="https://img.shields.io/badge/Hardhat-000000?style=for-the-badge&logo=hardhat&logoColor=FFF100" alt="Hardhat"/>
 <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white" alt="Foundry"/>
@@ -104,135 +98,106 @@ off-chain matching, on-chain settlement, and zero custody.
 
 <br/>
 
-<!-- в•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђ REPOS в•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђ -->
+<!-- в•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђ HOW IT WORKS в•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђ -->
 
-<h2 align="center">рџ“¦ &nbsp; Protocol Architecture</h2>
+<h2 align="center">
+<img src="https://img.shields.io/badge/-%E2%97%88-0047FF?style=flat-square&labelColor=0047FF" height="14"/>
+&nbsp; How It Works &nbsp;
+<img src="https://img.shields.io/badge/-%E2%97%88-0047FF?style=flat-square&labelColor=0047FF" height="14"/>
+</h2>
 
 <table align="center">
 <tr>
-<td width="50%" valign="top">
-
-<h3 align="center">рџ”· matching-engine</h3>
-
-<div align="center">
-
-[![GitHub stars](https://img.shields.io/github/stars/noirproto/matching-engine?style=flat-square&color=0047FF&labelColor=0d1117)](https://github.com/noirproto/matching-engine)
-[![GitHub last commit](https://img.shields.io/github/last-commit/noirproto/matching-engine?style=flat-square&color=4a5280&labelColor=0d1117)](https://github.com/noirproto/matching-engine)
-
-Central limit order book. Price-time priority.
-Off-chain matching at hardware speed.
-
-</div>
-
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/1-000000?style=for-the-badge&labelColor=0047FF" alt="1"/><br/>
+<b>Submit</b><br/>
+<sub>Trader signs an order<br/>via SDK or CLI</sub>
 </td>
-<td width="50%" valign="top">
-
-<h3 align="center">рџ”· settlement-contracts</h3>
-
-<div align="center">
-
-[![GitHub stars](https://img.shields.io/github/stars/noirproto/settlement-contracts?style=flat-square&color=0047FF&labelColor=0d1117)](https://github.com/noirproto/settlement-contracts)
-[![GitHub last commit](https://img.shields.io/github/last-commit/noirproto/settlement-contracts?style=flat-square&color=4a5280&labelColor=0d1117)](https://github.com/noirproto/settlement-contracts)
-
-On-chain settlement. Non-custodial.
-Sign-to-move. EIP-712.
-
-</div>
-
+<td align="center" width="40"><b>&rarr;</b></td>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/2-000000?style=for-the-badge&labelColor=0047FF" alt="2"/><br/>
+<b>Match</b><br/>
+<sub>CLOB engine pairs orders<br/>by price-time priority</sub>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">рџ”· noir-sdk</h3>
-
-<div align="center">
-
-[![GitHub stars](https://img.shields.io/github/stars/noirproto/noir-sdk?style=flat-square&color=0047FF&labelColor=0d1117)](https://github.com/noirproto/noir-sdk)
-[![GitHub last commit](https://img.shields.io/github/last-commit/noirproto/noir-sdk?style=flat-square&color=4a5280&labelColor=0d1117)](https://github.com/noirproto/noir-sdk)
-
-TypeScript SDK вЂ” place orders, read the book,
-verify settlements.
-
-</div>
-
+<td align="center" width="40"><b>&rarr;</b></td>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/3-000000?style=for-the-badge&labelColor=0047FF" alt="3"/><br/>
+<b>Log</b><br/>
+<sub>Every fill is written to<br/>a public append-only log</sub>
 </td>
-<td width="50%" valign="top">
-
-<h3 align="center">рџ”· order-log</h3>
-
-<div align="center">
-
-[![GitHub stars](https://img.shields.io/github/stars/noirproto/order-log?style=flat-square&color=0047FF&labelColor=0d1117)](https://github.com/noirproto/order-log)
-[![GitHub last commit](https://img.shields.io/github/last-commit/noirproto/order-log?style=flat-square&color=4a5280&labelColor=0d1117)](https://github.com/noirproto/order-log)
-
-Public append-only log of every order
-the engine processes.
-
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">рџ”· noir-cli</h3>
-
-<div align="center">
-
-[![GitHub stars](https://img.shields.io/github/stars/noirproto/noir-cli?style=flat-square&color=0047FF&labelColor=0d1117)](https://github.com/noirproto/noir-cli)
-[![GitHub last commit](https://img.shields.io/github/last-commit/noirproto/noir-cli?style=flat-square&color=4a5280&labelColor=0d1117)](https://github.com/noirproto/noir-cli)
-
-Terminal interface for the protocol.
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">рџ”· awesome-tokenized-equities</h3>
-
-<div align="center">
-
-[![GitHub stars](https://img.shields.io/github/stars/noirproto/awesome-tokenized-equities?style=flat-square&color=0047FF&labelColor=0d1117)](https://github.com/noirproto/awesome-tokenized-equities)
-[![GitHub last commit](https://img.shields.io/github/last-commit/noirproto/awesome-tokenized-equities?style=flat-square&color=4a5280&labelColor=0d1117)](https://github.com/noirproto/awesome-tokenized-equities)
-
-Curated ecosystem resources for tokenized equities.
-
-</div>
-
+<td align="center" width="40"><b>&rarr;</b></td>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/4-000000?style=for-the-badge&labelColor=0047FF" alt="4"/><br/>
+<b>Settle</b><br/>
+<sub>EIP-712 signed settlement<br/>on-chain, T+0, non-custodial</sub>
 </td>
 </tr>
 </table>
 
 <br/>
 
-<!-- в•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђ HOW IT WORKS в•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђ -->
+<div align="center">
 
-<h2 align="center">вљЎ &nbsp; How It Works</h2>
+| Component | Role | Key Property |
+|:---------:|:----:|:------------:|
+| **matching-engine** | Central limit order book | Price-time priority, off-chain speed |
+| **settlement-contracts** | On-chain settlement | EIP-712, non-custodial, sign-to-move |
+| **noir-sdk** | TypeScript SDK | Place orders, read book, verify settlements |
+| **order-log** | Transparency layer | Public, append-only, every order logged |
+| **noir-cli** | Terminal interface | Full protocol access from CLI |
+| **awesome-tokenized-equities** | Ecosystem resources | Curated list of RWA/tokenized equity projects |
 
-```
-                    в”Њв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”ђ
-                    в”‚       Noir Protocol          в”‚
-                    в”‚                              в”‚
-   в”Њв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”ђ       в”‚  в”Њв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”ђ  в”Њв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”ђ  в”‚       в”Њв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”ђ
-   в”‚ Trader в”‚в”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв–¶в”‚  в”‚ Matching  в”‚в”Ђв–¶в”‚ Order  в”‚  в”‚в”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв–¶в”‚ Settlement в”‚
-   в”‚  SDK   в”‚       в”‚  в”‚  Engine   в”‚  в”‚  Log   в”‚  в”‚       в”‚ Contracts  в”‚
-   в””в”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”       в”‚  в”‚  (CLOB)   в”‚  в”‚        в”‚  в”‚       в”‚  (EIP-712) в”‚
-                    в”‚  в””в”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”  в””в”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”  в”‚       в””в”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”
-   в”Њв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”ђ       в”‚       в”‚                      в”‚            в”‚
-   в”‚  CLI   в”‚в”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв–¶в”‚  price-time priority         в”‚       on-chain, T+0
-   в””в”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”       в”‚  off-chain, hardware speed   в”‚       non-custodial
-                    в””в”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”
-```
+</div>
 
 <br/>
 
-<!-- в•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђ FOOTER в•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђ -->
+<!-- в•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђ REPOS в•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђ -->
+
+<h2 align="center">
+<img src="https://img.shields.io/badge/-%E2%97%88-0047FF?style=flat-square&labelColor=0047FF" height="14"/>
+&nbsp; Repositories &nbsp;
+<img src="https://img.shields.io/badge/-%E2%97%88-0047FF?style=flat-square&labelColor=0047FF" height="14"/>
+</h2>
+
+<p align="center">
+<a href="https://github.com/noirproto/matching-engine">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=noirproto&repo=matching-engine&theme=transparent&hide_border=true&title_color=0047FF&icon_color=0047FF&text_color=8a96b8&bg_color=0d1117" width="47%"/>
+</a>
+&nbsp;
+<a href="https://github.com/noirproto/settlement-contracts">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=noirproto&repo=settlement-contracts&theme=transparent&hide_border=true&title_color=0047FF&icon_color=0047FF&text_color=8a96b8&bg_color=0d1117" width="47%"/>
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/noirproto/noir-sdk">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=noirproto&repo=noir-sdk&theme=transparent&hide_border=true&title_color=0047FF&icon_color=0047FF&text_color=8a96b8&bg_color=0d1117" width="47%"/>
+</a>
+&nbsp;
+<a href="https://github.com/noirproto/order-log">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=noirproto&repo=order-log&theme=transparent&hide_border=true&title_color=0047FF&icon_color=0047FF&text_color=8a96b8&bg_color=0d1117" width="47%"/>
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/noirproto/noir-cli">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=noirproto&repo=noir-cli&theme=transparent&hide_border=true&title_color=0047FF&icon_color=0047FF&text_color=8a96b8&bg_color=0d1117" width="47%"/>
+</a>
+&nbsp;
+<a href="https://github.com/noirproto/awesome-tokenized-equities">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=noirproto&repo=awesome-tokenized-equities&theme=transparent&hide_border=true&title_color=0047FF&icon_color=0047FF&text_color=8a96b8&bg_color=0d1117" width="47%"/>
+</a>
+</p>
+
+<br/>
+
+<!-- в•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђ FOOTER в•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђ -->
 
 <div align="center">
 
 ---
+
+<sub>Non-custodial orderbook infrastructure for tokenized equities.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047FF,50:000820,100:000000&height=120&section=footer&animation=fadeIn" width="100%" alt="footer"/>
 
