@@ -159,35 +159,18 @@
 <img src="https://img.shields.io/badge/-%E2%97%88-0047FF?style=flat-square&labelColor=0047FF" height="14"/>
 </h2>
 
-<p align="center">
-<a href="https://github.com/noirproto/matching-engine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=noirproto&repo=matching-engine&theme=transparent&hide_border=true&title_color=0047FF&icon_color=0047FF&text_color=8a96b8&bg_color=0d1117" width="47%"/>
-</a>
-&nbsp;
-<a href="https://github.com/noirproto/settlement-contracts">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=noirproto&repo=settlement-contracts&theme=transparent&hide_border=true&title_color=0047FF&icon_color=0047FF&text_color=8a96b8&bg_color=0d1117" width="47%"/>
-</a>
-</p>
+<div align="center">
 
-<p align="center">
-<a href="https://github.com/noirproto/noir-sdk">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=noirproto&repo=noir-sdk&theme=transparent&hide_border=true&title_color=0047FF&icon_color=0047FF&text_color=8a96b8&bg_color=0d1117" width="47%"/>
-</a>
-&nbsp;
-<a href="https://github.com/noirproto/order-log">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=noirproto&repo=order-log&theme=transparent&hide_border=true&title_color=0047FF&icon_color=0047FF&text_color=8a96b8&bg_color=0d1117" width="47%"/>
-</a>
-</p>
+| | Repo | Description | Signal |
+|:-:|:-----|:------------|:------:|
+| `01` | **[matching-engine](https://github.com/noirproto/matching-engine)** | Central limit order book. Price-time priority. Off-chain matching at hardware speed. | ![stars](https://img.shields.io/github/stars/noirproto/matching-engine?style=flat-square&label=%E2%98%85&color=0047FF&labelColor=0d1117) |
+| `02` | **[settlement-contracts](https://github.com/noirproto/settlement-contracts)** | On-chain settlement. Non-custodial, sign-to-move, EIP-712. | ![stars](https://img.shields.io/github/stars/noirproto/settlement-contracts?style=flat-square&label=%E2%98%85&color=0047FF&labelColor=0d1117) |
+| `03` | **[noir-sdk](https://github.com/noirproto/noir-sdk)** | TypeScript SDK вЂ” place orders, read the book, verify settlements. | ![stars](https://img.shields.io/github/stars/noirproto/noir-sdk?style=flat-square&label=%E2%98%85&color=0047FF&labelColor=0d1117) |
+| `04` | **[order-log](https://github.com/noirproto/order-log)** | Public append-only log of every order the engine processes. | ![stars](https://img.shields.io/github/stars/noirproto/order-log?style=flat-square&label=%E2%98%85&color=0047FF&labelColor=0d1117) |
+| `05` | **[noir-cli](https://github.com/noirproto/noir-cli)** | Terminal interface for the protocol. | ![stars](https://img.shields.io/github/stars/noirproto/noir-cli?style=flat-square&label=%E2%98%85&color=0047FF&labelColor=0d1117) |
+| `06` | **[awesome-tokenized-equities](https://github.com/noirproto/awesome-tokenized-equities)** | Curated ecosystem resources for tokenized equities. | ![stars](https://img.shields.io/github/stars/noirproto/awesome-tokenized-equities?style=flat-square&label=%E2%98%85&color=0047FF&labelColor=0d1117) |
 
-<p align="center">
-<a href="https://github.com/noirproto/noir-cli">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=noirproto&repo=noir-cli&theme=transparent&hide_border=true&title_color=0047FF&icon_color=0047FF&text_color=8a96b8&bg_color=0d1117" width="47%"/>
-</a>
-&nbsp;
-<a href="https://github.com/noirproto/awesome-tokenized-equities">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=noirproto&repo=awesome-tokenized-equities&theme=transparent&hide_border=true&title_color=0047FF&icon_color=0047FF&text_color=8a96b8&bg_color=0d1117" width="47%"/>
-</a>
-</p>
+</div>
 
 <br/>
 
