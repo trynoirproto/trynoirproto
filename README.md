@@ -54,21 +54,18 @@
 </h2>
 
 <p align="center">
-<a href="https://github.com/noirproto">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=noirproto&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=0047FF&icon_color=0047FF&text_color=8a96b8&include_all_commits=true&rank_icon=github&ring_color=0047FF&card_width=450"/>
-</a>
-&nbsp;
-<a href="https://github.com/noirproto">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noirproto&layout=donut-vertical&theme=transparent&hide_border=true&bg_color=0d1117&title_color=0047FF&text_color=8a96b8&langs_count=6&card_width=320"/>
-</a>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=noirproto&theme=transparent&hide_border=true&background=0d1117&stroke=1a1a3a&ring=0047FF&fire=0047FF&currStreakLabel=0047FF&sideLabels=8a96b8&dates=4a5280&currStreakNum=ffffff&sideNums=ffffff" alt="streak"/>
+<img src="https://img.shields.io/github/commit-activity/m/noirproto/matching-engine?style=for-the-badge&color=0047FF&labelColor=0d1117&label=commits%2Fmo" alt="commits"/>
+<img src="https://img.shields.io/github/last-commit/noirproto/matching-engine?style=for-the-badge&color=0047FF&labelColor=0d1117&label=last%20commit" alt="last commit"/>
+<img src="https://img.shields.io/badge/repos-7-0047FF?style=for-the-badge&labelColor=0d1117" alt="repos"/>
+<img src="https://img.shields.io/github/followers/noirproto?style=for-the-badge&color=0047FF&labelColor=0d1117" alt="followers"/>
 </p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=noirproto&bg_color=0d1117&color=0047FF&line=0047FF&point=ffffff&area_color=0047FF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="activity graph"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=noirproto&theme=transparent&hide_border=true&background=0d1117&stroke=1a1a3a&ring=0047FF&fire=0047FF&currStreakLabel=0047FF&sideLabels=8a96b8&dates=4a5280&currStreakNum=ffffff&sideNums=ffffff" alt="streak"/>
 </p>
 
 <br/>
