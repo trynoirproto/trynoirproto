@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:1a0010,100:FF007A&height=280&section=header&text=Noir%20Protocol&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Orderbook%20%2B%20Uniswap%20v4%20for%20tokenized%20equities&descAlignY=62&descSize=18&animation=fadeIn" width="100%" alt="Noir Protocol"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:1a0010,100:FF007A&height=280&section=header&text=Pool%20Protocol&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Orderbook%20%2B%20Uniswap%20v4%20for%20tokenized%20equities&descAlignY=62&descSize=18&animation=fadeIn" width="100%" alt="Pool Protocol"/>
 
 <a href="https://github.com/poolproto">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=FF007A&center=true&vCenter=true&width=860&lines=Central+limit+order+book.+Onchain.;Orderbook+%2B+Uniswap+v4.+One+signed+order.;Price-time+priority.+T%2B0+settlement.;Non-custodial.+EIP-712+signed.;The+book+never+runs+dry+%E2%80%94+the+pool+is+always+behind+it." alt="typing"/>
@@ -41,7 +41,7 @@
 
 > **Trillions of dollars of stocks, ETFs, and real-world assets are moving onchain.**
 > **The pool is the liquidity. The orderbook is the market on top.**
-> **Noir matches against resting limits first, routes the rest through Uniswap v4.**
+> **Pool matches against resting limits first, routes the rest through Uniswap v4.**
 
 </div>
 
@@ -141,9 +141,9 @@
 |:---------:|:----:|:------------:|
 | **matching-engine** | Central limit order book | Price-time priority, off-chain speed |
 | **settlement-contracts** | On-chain settlement + v4 routing | EIP-712, non-custodial, Uniswap v4 fallback |
-| **noir-sdk** | TypeScript SDK | Place orders, read book, verify settlements |
+| **pool-sdk** | TypeScript SDK | Place orders, read book, verify settlements |
 | **order-log** | Transparency layer | Public, append-only, every order logged |
-| **noir-cli** | Terminal interface | Full protocol access from CLI |
+| **pool-cli** | Terminal interface | Full protocol access from CLI |
 | **awesome-tokenized-equities** | Ecosystem resources | Curated list of RWA/tokenized equity projects |
 
 </div>
@@ -164,9 +164,9 @@
 |:-:|:-----|:------------|:------:|
 | `01` | **[matching-engine](https://github.com/poolproto/matching-engine)** | Central limit order book. Price-time priority. Off-chain matching at hardware speed. | ![stars](https://img.shields.io/github/stars/poolproto/matching-engine?style=flat-square&label=%E2%98%85&color=FF007A&labelColor=0d1117) |
 | `02` | **[settlement-contracts](https://github.com/poolproto/settlement-contracts)** | On-chain settlement. Non-custodial, sign-to-move, EIP-712. | ![stars](https://img.shields.io/github/stars/poolproto/settlement-contracts?style=flat-square&label=%E2%98%85&color=FF007A&labelColor=0d1117) |
-| `03` | **[noir-sdk](https://github.com/poolproto/noir-sdk)** | TypeScript SDK — place orders, read the book, verify settlements. | ![stars](https://img.shields.io/github/stars/poolproto/noir-sdk?style=flat-square&label=%E2%98%85&color=FF007A&labelColor=0d1117) |
+| `03` | **[pool-sdk](https://github.com/poolproto/pool-sdk)** | TypeScript SDK — place orders, read the book, verify settlements. | ![stars](https://img.shields.io/github/stars/poolproto/pool-sdk?style=flat-square&label=%E2%98%85&color=FF007A&labelColor=0d1117) |
 | `04` | **[order-log](https://github.com/poolproto/order-log)** | Public append-only log of every order the engine processes. | ![stars](https://img.shields.io/github/stars/poolproto/order-log?style=flat-square&label=%E2%98%85&color=FF007A&labelColor=0d1117) |
-| `05` | **[noir-cli](https://github.com/poolproto/noir-cli)** | Terminal interface for the protocol. | ![stars](https://img.shields.io/github/stars/poolproto/noir-cli?style=flat-square&label=%E2%98%85&color=FF007A&labelColor=0d1117) |
+| `05` | **[pool-cli](https://github.com/poolproto/pool-cli)** | Terminal interface for the protocol. | ![stars](https://img.shields.io/github/stars/poolproto/pool-cli?style=flat-square&label=%E2%98%85&color=FF007A&labelColor=0d1117) |
 | `06` | **[awesome-tokenized-equities](https://github.com/poolproto/awesome-tokenized-equities)** | Curated ecosystem resources for tokenized equities. | ![stars](https://img.shields.io/github/stars/poolproto/awesome-tokenized-equities?style=flat-square&label=%E2%98%85&color=FF007A&labelColor=0d1117) |
 
 </div>
